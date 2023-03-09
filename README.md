@@ -1,2 +1,1 @@
-# gerador-de-senhas
-Gerador de senhas aleatórias com Python.
+Gerador de senhas fortes criado usando Python.
